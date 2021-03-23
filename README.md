@@ -1,4 +1,6 @@
-# Blazor Html Header MetaData 
+# Setting dynamic Metadata for Blazor Web assembly
+
+https://damienbod.com/2021/03/23/setting-dynamic-metadata-for-blazor-web-assembly/
 
 ## Links
 
