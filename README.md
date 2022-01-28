@@ -2,6 +2,10 @@
 
 https://damienbod.com/2021/03/23/setting-dynamic-metadata-for-blazor-web-assembly/
 
+## History 
+
+2022-01-28 Updated to .NET 6
+
 ## Links
 
 https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup
